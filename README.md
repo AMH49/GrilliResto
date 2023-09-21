@@ -45,4 +45,3 @@ git clone http://127.0.0.1:5502/grilli-master/index.html
 
 ### License
 
-[MIT](https://choosealicense.com/licenses/mit/)
